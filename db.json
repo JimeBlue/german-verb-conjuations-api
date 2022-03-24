@@ -1,0 +1,558 @@
+[
+    {
+      "id": 1,
+      "verb": "essen",
+      "infinitive": "essen",
+      "conjugations": {
+        "präsens": {
+          "ich": "esse",
+          "du": "isst",
+          "er": "isst",
+          "sie": "isst",
+          "es": "isst",
+          "wir": "essen",
+          "ihr": "esst",
+          "Sie": "essen"
+        },
+        "präteritum": {
+          "ich": "aß",
+          "du": "aßt",
+          "er": "aß",
+          "sie": "aß",
+          "es": "aß",
+          "wir": "aßen",
+          "ihr": "aßt",
+          "Sie": "aßen"
+        },
+        "perfekt": {
+          "ich": "habe gegessen",
+          "du": "hast gegessen",
+          "er": "hat gegessen",
+          "sie": "hat\tgegessen",
+          "es": "hat\tgegessen",
+          "wir": "haben gegessen",
+          "ihr": "habt gegessen",
+          "Sie": "haben gegessen"
+        },
+        "plusquamperfekt": {
+          "ich": "hatte gegessen",
+          "du": "hattest gegessen",
+          "er": "hatte\tgegessen",
+          "sie": "hatte gegessen",
+          "es": "hatte gegessen",
+          "wir": "hatten gegessen",
+          "ihr": "hattet gegessen",
+          "Sie": "hatten gegessen"
+        },
+        "imperativ": {
+          "du": "iss",
+          "wir": "essen",
+          "ihr": "esst",
+          "Sie": "essen "
+        }
+      }
+    },
+    {
+      "id": 2,
+      "verb": "fahren",
+      "infinitive": "fahren",
+      "conjugations": {
+        "präsens": {
+          "ich": "fahre",
+          "du": "fährst",
+          "er": "fährt",
+          "sie": "fährt",
+          "es": "fährt",
+          "wir": "fahren",
+          "ihr": "fahrt",
+          "Sie": "fahren"
+        },
+        "präteritum": {
+          "ich": "fuhr",
+          "du": "fuhrst",
+          "er": "fuhr",
+          "sie": "fuhr",
+          "es": "fuhr",
+          "wir": "fuhren",
+          "ihr": "fuhrt",
+          "Sie": "fuhren"
+        },
+        "perfekt": {
+          "ich": "bin\tgefahren",
+          "du": "\tbist gefahren",
+          "er": "ist gefahren",
+          "sie": "ist gefahren",
+          "es": "ist gefahren",
+          "wir": "sind gefahren",
+          "ihr": "seid gefahren",
+          "Sie": "sind\tgefahren"
+        },
+        "plusquamperfekt": {
+          "ich": "war\tgefahren",
+          "du": "\twarst\tgefahren",
+          "er": "war gefahren",
+          "sie": "war gefahren",
+          "es": "war gefahren",
+          "wir": "waren\tgefahren",
+          "ihr": "wart gefahren",
+          "Sie": "waren gefahren"
+        },
+        "imperativ": {
+          "du": "fahr",
+          "wir": "fahren",
+          "ihr": "fahrt",
+          "Sie": "fahren"
+        },
+        "präsens-passiv": {
+          "ich": "werde gefahren",
+          "du": "wirst gefahren",
+          "er": "wird gefahren",
+          "sie": "wird gefahren",
+          "es": "wird gefahren",
+          "wir": "werden gefahren",
+          "ihr": "werdet gefahren",
+          "Sie": "werden gefahren"
+        },
+        "präteritum-passiv": {
+          "ich": "wurde gefahren",
+          "du": "wurdest gefahren",
+          "er": "wurde gefahren",
+          "sie": "wurde gefahren",
+          "es": "wurde gefahren",
+          "wir": "wurden gefahren",
+          "ihr": "wurdet gefahren",
+          "Sie": "wurden gefahren"
+        },
+        "perfekt-passiv": {
+          "ich": "bin gefahren worden",
+          "du": "bist gefahren worden",
+          "er": "ist gefahren worden",
+          "sie": "ist gefahren worden",
+          "es": "ist gefahren worden",
+          "wir": "sind gefahren worden",
+          "ihr": "seid gefahren worden",
+          "Sie": "sind gefahren worden"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "verb": "wissen",
+      "infinitive": " wissen",
+      "conjugations": {
+        "präsens": {
+          "ich": "weiß",
+          "du": "weißt",
+          "er": "weiß",
+          "sie": "weiß",
+          "es": "weiß",
+          "wir": "wissen",
+          "ihr": "wisst",
+          "Sie": "wissen"
+        },
+        "präteritum": {
+          "ich": "wusste",
+          "du": "wusstest",
+          "er": "wusste",
+          "sie": "wusste",
+          "es": "wusste",
+          "wir": "wussten",
+          "ihr": "wusstet",
+          "Sie": "wussten"
+        },
+        "plusquamperfekt": {
+          "ich": "hatte gewusst",
+          "du": "hattest gewusst",
+          "er": "hatte gewusst",
+          "sie": "hatte gewusst",
+          "es": "hatte gewusst",
+          "wir": "hatten gewusst",
+          "ihr": "hattet gewusst",
+          "Sie": "hatten gewusst"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "verb": "geben",
+      "infinitive": "geben",
+      "conjugations": {
+        "präsens": {
+          "ich": "gebe",
+          "du": "gibst",
+          "er": "gibt",
+          "sie": "gibt",
+          "es": "gibt",
+          "wir": "geben",
+          "ihr": "gebt",
+          "Sie": "geben"
+        },
+        "präteritum": {
+          "ich": "gab",
+          "du": "gabst",
+          "er": "gab",
+          "sie": "gab",
+          "es": "gab",
+          "wir": "gaben",
+          "ihr": "gabt",
+          "Sie": "gaben"
+        },
+        "perfekt": {
+          "ich": "habe gegeben",
+          "du": "hast\tgegeben",
+          "er": "hat gegeben",
+          "sie": "hat\tgegeben",
+          "es": "hat gegeben",
+          "wir": "haben\tgegeben",
+          "ihr": "habt gegeben",
+          "Sie": "haben\tgegeben"
+        },
+        "plusquamperfekt": {
+          "ich": "hatte\tgegeben",
+          "du": "hattest gegeben",
+          "er": "hatte gegeben",
+          "sie": "hatte\tgegeben",
+          "es": "hatte gegeben",
+          "wir": "hatten gegeben",
+          "ihr": "hattet gegeben",
+          "Sie": "hatten gegeben"
+        },
+        "imperativ": {
+          "du": "gib",
+          "wir": "geben",
+          "ihr": "gebt",
+          "Sie": "geben"
+        },
+        "präsens-passiv": {
+          "ich": "werde gegeben",
+          "du": "wirst gegeben",
+          "er": "wird gegeben",
+          "sie": "wird gegeben",
+          "es": "wird gegeben",
+          "wir": "werden gegeben",
+          "ihr": "werdet gegeben",
+          "Sie": "werden gegeben"
+        },
+        "präteritum-passiv": {
+          "ich": "wurde gegeben",
+          "du": "wurdest gegeben",
+          "er": "wurde gegeben",
+          "sie": "wurde gegeben",
+          "es": "wurde gegeben",
+          "wir": "wurden gegeben",
+          "ihr": "wurdet gegeben",
+          "Sie": "wurden gegeben"
+        },
+        "perfekt-passiv": {
+          "ich": "bin gegeben worden",
+          "du": "bist gegeben worden",
+          "er": "ist gegeben worden",
+          "sie": "ist gegeben worden",
+          "es": "ist gegeben worden",
+          "wir": "sind gegeben worden",
+          "ihr": "seid gegeben worden",
+          "Sie": "sind gegeben worden"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "verb": "können",
+      "infinitive": "können",
+      "conjugations": {
+        "präsens": {
+          "ich": "kann",
+          "du": "kannst",
+          "er": "kann",
+          "sie": "kann",
+          "es": "kann",
+          "wir": "können",
+          "ihr": "könnt",
+          "Sie": "können"
+        },
+        "präteritum": {
+          "ich": "konnte",
+          "du": "konntest",
+          "er": "konnte",
+          "sie": "konnte",
+          "es": "konnte",
+          "wir": "konnten",
+          "ihr": "konntet",
+          "Sie": "konnten"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "verb": "dürfen",
+      "infinitive": "dürfen",
+      "conjugations": {
+        "präsens": {
+          "ich": "darf",
+          "du": "darfst",
+          "er": "darf",
+          "sie": "darf",
+          "es": "darf",
+          "wir": "dürfen",
+          "ihr": "dürft",
+          "Sie": "dürfen"
+        },
+        "präteritum": {
+          "ich": "durfte",
+          "du": "durftest",
+          "er": "durfte",
+          "sie": "durfte",
+          "es": "durfte",
+          "wir": "durften",
+          "ihr": "durftet",
+          "Sie": "durften"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "verb": "sehen",
+      "infinitive": "sehen",
+      "conjugations": {
+        "präsens": {
+          "ich": "sehe",
+          "du": "siehst",
+          "er": "sieht",
+          "sie": "sieht",
+          "es": "sieht",
+          "wir": "sehen",
+          "ihr": "seht",
+          "Sie": "sehen"
+        },
+        "präteritum": {
+          "ich": "sah",
+          "du": "sahst",
+          "er": "sah",
+          "sie": "sah",
+          "es": "sah",
+          "wir": "sahen",
+          "ihr": "saht",
+          "Sie": "sahen"
+        },
+        "perfekt": {
+          "ich": "habe gesehen",
+          "du": "hast\tgesehen",
+          "er": "hat gesehen",
+          "sie": "hat\tgesehen",
+          "es": "hat\tgesehen",
+          "wir": "haben\tgesehen",
+          "ihr": "habt gesehen",
+          "Sie": "haben\tgesehen"
+        },
+        "plusquamperfekt": {
+          "ich": "hatte\tgesehen",
+          "du": "hattest gesehen",
+          "er": "hatte gesehen",
+          "sie": "hatte gesehen",
+          "es": "hatte gesehen",
+          "wir": "hatten gesehen",
+          "ihr": "hattet gesehen",
+          "Sie": "hatten gesehen"
+        },
+        "imperativ": {
+          "du": "sieh",
+          "wir": "sehen",
+          "ihr": "seht",
+          "Sie": "sehen"
+        },
+        "präsens-passiv": {
+          "ich": "werde gesehen",
+          "du": "wirst gesehen",
+          "er": "wird gesehen",
+          "sie": "wird gesehen",
+          "es": "wird gesehen",
+          "wir": "werden gesehen",
+          "ihr": "werdet gesehen",
+          "Sie": "werden gesehen"
+        },
+        "präteritum-passiv": {
+          "ich": "wurde gesehen",
+          "du": "wurdest gesehen",
+          "er": "wurde gesehen",
+          "sie": "wurde gesehen",
+          "es": "wurde gesehen",
+          "wir": "wurden gesehen",
+          "ihr": "wurdet gesehen",
+          "Sie": "wurden gesehen"
+        },
+        "perfekt-passiv": {
+          "ich": "bin gesehen worden",
+          "du": "bist gesehen worden",
+          "er": "ist gesehen worden",
+          "sie": "ist gesehen worden",
+          "es": "ist gesehen worden",
+          "wir": "sind gesehen worden",
+          "ihr": "seid gesehen worden",
+          "Sie": "sind gesehen worden"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "verb": "mögen",
+      "infinitive": "mögen",
+      "conjugations": {
+        "präsens": {
+          "ich": "mag",
+          "du": "magst",
+          "er": "mag",
+          "sie": "mag",
+          "es": "mag",
+          "wir": "mögen",
+          "ihr": "mögt",
+          "Sie": "mögen"
+        },
+        "präteritum": {
+          "ich": "mochte",
+          "du": "mochtest",
+          "er": "mochte",
+          "sie": "mochte",
+          "es": "mochte",
+          "wir": "mochten",
+          "ihr": "mochtet",
+          "Sie": "mochten"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "verb": "behalten",
+      "infinitive": "behalten",
+      "conjugations": {
+        "präsens": {
+          "ich": "behalte",
+          "du": "behältst",
+          "er": "behält",
+          "sie": "behält",
+          "es": "behält",
+          "wir": "behalten",
+          "ihr": "behaltet",
+          "Sie": "behalten"
+        },
+        "präteritum": {
+          "ich": "behielt",
+          "du": "behieltest",
+          "er": "behielt",
+          "sie": "behielt",
+          "es": "behielt",
+          "wir": "behielten",
+          "ihr": "behieltet",
+          "Sie": "behielten"
+        },
+        "perfekt": {
+          "ich": "habe behalten",
+          "du": "hast\tbehalten",
+          "er": "hat behalten",
+          "sie": "hat\tbehalten",
+          "es": "hat behalten",
+          "wir": "haben behalten",
+          "ihr": "habt behalten",
+          "Sie": "haben behalten"
+        },
+        "plusquamperfekt": {
+          "ich": "hatte\tbehalten",
+          "du": "hattest behalten",
+          "er": "hatte behalten",
+          "sie": "hatte\tbehalten",
+          "es": "hatte behalten",
+          "wir": "hatten behalten",
+          "ihr": "hattet behalten",
+          "Sie": "hatten behalten"
+        },
+        "imperativ": {
+          "du": "behalt",
+          "wir": "behalten",
+          "ihr": "behaltet",
+          "Sie": "behalten"
+        },
+        "präsens-passiv": {
+          "ich": "werde gebracht",
+          "du": "wirst gebracht",
+          "er": "wird gebracht",
+          "sie": "wird gebracht",
+          "es": "wird gebracht",
+          "wir": "werden gebracht",
+          "ihr": "werdet gebracht",
+          "Sie": "werden gebracht"
+        },
+        "präteritum-passiv": {
+          "ich": "wurde gebracht",
+          "du": "wurdest gebracht",
+          "er": "wurde gebracht",
+          "sie": "wurde gebracht",
+          "es": "wurde gebracht",
+          "wir": "wurden gebracht",
+          "ihr": "wurdet gebracht",
+          "Sie": "wurden gebracht"
+        },
+        "perfekt-passiv": {
+          "ich": "bin gebracht worden",
+          "du": "bist gebracht worden",
+          "er": "ist gebracht worden",
+          "sie": "ist gebracht worden",
+          "es": "ist gebracht worden",
+          "wir": "sind gebracht worden",
+          "ihr": "seid gebracht worden",
+          "Sie": "sind gebracht worden"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "verb": "bringen",
+      "infinitive": "bringen",
+      "conjugations": {
+        "präsens": {
+          "ich": "bringe",
+          "du": "bringst",
+          "er": "bringt",
+          "sie": "bringt",
+          "es": "bringt",
+          "wir": "bringen",
+          "ihr": "bringt",
+          "Sie": "bringen"
+        },
+        "präteritum": {
+          "ich": "brachte",
+          "du": "brachtest",
+          "er": "brachte",
+          "sie": "brachte",
+          "es": "brachte",
+          "wir": "brachten",
+          "ihr": "brachtet",
+          "Sie": "brachten"
+        },
+        "perfekt": {
+          "ich": "habe gebracht",
+          "du": "hast\tgebracht",
+          "er": "hat gebracht",
+          "sie": "hat\tgebracht",
+          "es": "hat gebracht",
+          "wir": "haben gebracht",
+          "ihr": "habt gebracht",
+          "Sie": "haben gebracht"
+        },
+        "plusquamperfekt": {
+          "ich": "hatte\tgebracht",
+          "du": "hattest gebracht",
+          "er": "hatte gebracht",
+          "sie": "hatte\tgebracht",
+          "es": "hatte gebracht",
+          "wir": "hatten gebracht",
+          "ihr": "hattet gebracht",
+          "Sie": "hatten gebracht"
+        },
+        "imperativ": {
+          "du": "bring",
+          "wir": "bringen",
+          "ihr": "bringt",
+          "Sie": "bringen"
+        }
+      }
+    }
+  ]
