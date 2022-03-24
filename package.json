@@ -1,0 +1,23 @@
+{
+  "name": "german-verb-conjuations-api",
+  "version": "1.0.0",
+  "description": "My german verb conjugations api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node.server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimeBlue/german-verb-conjuations-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimeBlue/german-verb-conjuations-api/issues"
+  },
+  "homepage": "https://github.com/JimeBlue/german-verb-conjuations-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
