@@ -5,8 +5,6 @@ I built this this mock REST API out of the lack of available free data for Germa
 
 This project follows along with the <a href="https://www.youtube.com/watch?v=FLnxgSZ0DG4"> Make your own mock API </a> tutorial by Code with Ania Kubów. I adapted the data to my needs. 
 
-#### Check it out live <a href="https://my-german-verb-conjugation-api.herokuapp.com/verbs"> https://my-german-verb-conjugation-api.herokuapp.com/verbs</a> .
-
 You can make GET, POST, PUT, DELETE etc requests to it. 
 
 ### Built with
